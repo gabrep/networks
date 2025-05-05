@@ -9,8 +9,8 @@ Para acessar o material complementar e lista de genes selecionados, que serão u
 **Tabela de genes selecionados**: [Top DEGs](https://github.com/gabrep/networks/raw/refs/heads/main/top%20genes.xlsx)
 
 
-Links para sites:
-**String**:
-**NetworkAnalyst**: (https://www.networkanalyst.ca/NetworkAnalyst/)
+Links para sites:  
+**String**: https://string-db.org/  
+**NetworkAnalyst**: (https://www.networkanalyst.ca/NetworkAnalyst/)  
 
-Cytoscape:
+Cytoscape, para download: https://cytoscape.org/  
